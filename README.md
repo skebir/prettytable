@@ -31,6 +31,6 @@ allprojects {
 }
 
 dependencies {
-       compile 'com.github.skebir:prettytable:-SNAPSHOT'
+       compile 'com.github.skebir:prettytable:v1.0'
 }
 ```
