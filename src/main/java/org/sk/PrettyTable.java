@@ -65,12 +65,5 @@ public class PrettyTable {
         return result.toString();
     }
 
-    public static void main(String[] args) {
-        PrettyTable table = new PrettyTable("Firstname", "Lastname", "Email", "phone");
-        table.addRow("Salim", "Kebir", "smkebir@gmail.com", "");
-        table.addRow("Selma", "Cherdouh", "sacherdouh@gmail.com", "");
-        System.out.println(table);
-    }
-
 }
 
