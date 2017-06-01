@@ -1,6 +1,6 @@
 # prettytable
 
-PrettyTable is a simple Java library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables, like this:
+PrettyTable is a simple single-class Java library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables, like this:
 
 ```
 +-----------+----------+---------------------+-------------+
